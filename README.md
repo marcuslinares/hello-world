@@ -1,3 +1,3 @@
 # hello-world
 
-This is my first contact with the Github.
+This is my first contact with Github.
